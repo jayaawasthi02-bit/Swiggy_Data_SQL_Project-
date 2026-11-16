@@ -72,7 +72,7 @@ Natural Ice Cream Restaurant of New Delhi emerged as highest-rated restaurants.
 
 #### Monthly sales growth:
 
-February and June showing decline in sales growth shows promising grwoth.
+Just two months February and June showing decline in sales, Rest months shows promising growth.
 
 #### Geographic sales contribution:
 
@@ -80,7 +80,7 @@ Karnataka recorded highest revenue contribution showing large market potential.
 
 #### Restaurant Coverage:
 
-Rajasthan with highest number of working restaurants favors business expansion
+Rajasthan with highest number of working restaurants favors business expansion.
 
 ### Business Recommendations
 
